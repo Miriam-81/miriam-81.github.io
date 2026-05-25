@@ -1,6 +1,6 @@
 # Professional Korean Tutor - Portfolio
 
-Welcome to my personal portfolio website. I am a dedicated and experienced Korean language tutor helping students worldwide master the Korean language from scratch to advanced levels.
+Welcome to my personal portfolio website. I am a dedicated and experienced Korean language tutor helping students in the UK master the Korean language from scratch to advanced levels.
 
 - [Live Demo](https://miriam-81.github.io/)
 - [About Me](#about-me)
